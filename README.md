@@ -1,6 +1,6 @@
 ### Hi there, I'm Shyam 👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Software Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
